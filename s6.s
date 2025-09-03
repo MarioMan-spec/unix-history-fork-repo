@@ -8,6 +8,7 @@ itrunc: 0
 1:
    lac 9f+t+1 i
    sna
+   jmp 6f
    jmp 4f
    lac i.flags
    and o200000
